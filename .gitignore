@@ -3,9 +3,9 @@
 **/.project/*
 **/.project
 
-informational/minecraft/NuclearCraft/Debug.txt
-informational/minecraft/NuclearCraft/DefaultConfig.json
-informational/minecraft/NuclearCraft/Newtonsoft.json.dll
+minecraft/NuclearCraft/Debug.txt
+minecraft/NuclearCraft/DefaultConfig.json
+minecraft/NuclearCraft/Newtonsoft.json.dll
 **/backups/*.zip
 **/backups/*.gz
 **/backups/*.tar

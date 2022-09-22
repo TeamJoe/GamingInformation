@@ -1,3 +1,0 @@
-LABEL=writable	/	 ext4	defaults	0	0
-LABEL=system-boot	/boot/firmware	vfat	defaults	0	1
-/dev/sda1	/home	ext4	defaults,auto,exec	0	2

@@ -1,5 +1,0 @@
-The global and world default configuration files have moved to /home/minecraft/data/Vanilla/1.19.2/config
-and the world-specific configuration file has been moved inside
-the respective world folder.
-
-See https://docs.papermc.io/paper/configuration for more information.
